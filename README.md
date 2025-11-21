@@ -1,1 +1,1 @@
-# 资料库 / 备份
+#### [AI Prompt](https://github.com/timothyguo86/guwangjinlai/tree/main/AI_prompt)
